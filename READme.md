@@ -1,6 +1,6 @@
 Courtesy:- [TECHCROWDMY](https://github.com/TECHCROWDMY/practice-landing-page/commits?author=TECHCROWDMY "View all commits by TECHCROWDMY")
 
-Netlify Link: - 
+Netlify Link: - https://ubiquitous-sherbet-0539cc.netlify.app/
 
 Youtube Tutorial:- https://youtu.be/UKAbQnCHy4M
 
